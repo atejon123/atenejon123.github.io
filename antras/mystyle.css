@@ -1,0 +1,13 @@
+body {background-color:white;}
+.antraste1 {background-color: brown; color: whitesmoke; font-size: 20pt; font-family: Arial, Helvetica, sans-serif; text-align:center;}
+.antraste2 {color: brown; font-size: 20pt; font-family: Arial, Helvetica, sans-serif; text-align:center;}
+.pastraipos {font-family: Arial, Helvetica, sans-serif; color:black;}
+a:link {font-family: Arial, Helvetica; text-decoration: none; color: rgb(53, 51, 51)}
+a:hover {text-decoration: none; color: brown}
+a:visited {font-family: Arial, Helvetica; text-decoration: none; color:grey}
+table, td {border: none;}
+table {margin: auto; width: 50%;  text-align: center; vertical-align: -webkit-baseline-middle}
+.eilute {height: 200;}
+.eilutekita {height: 50px; vertical-align: middle;}
+.smulkiantraste {color: brown; font-size: 15pt; font-family: Arial, Helvetica, sans-serif; }
+#vardas {color: #d9d9d9; font-size: 10pt}
